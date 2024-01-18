@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+babylonjs-mesh-hvgirl
+# BabylonJS - Mesh "HVGirl"
 
 Based on "ABC" at https://www.abc.com/
 
