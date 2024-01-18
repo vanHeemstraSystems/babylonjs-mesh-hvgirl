@@ -10,7 +10,7 @@ These resources can be imported in BabylonJS as follows:
 // Load the mesh asynchronously
 SceneLoader.ImportMeshAsync(
   null,
-  "https://dl.dropboxusercontent.com/s/xtxf8eo2t3bb66b/Spaceship_BarbaraTheBee.gltf",
+  "https://github.com/vanHeemstraSystems/babylonjs-mesh-hvgirl/raw/main/HVGirl.glb",
   null,
   scene
 ).then(({ meshes }) => {
